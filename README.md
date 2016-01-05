@@ -7,4 +7,4 @@ My application needs `pygame` library for GUI.
 
 You could run **prerequisite.sh** to install all pre-requisites.
 
-Then you can enjoy by using python to run `Thermal_Imaging.py`.
+Then you can enjoy by using **python** to run `Thermal_Imaging.py`.
