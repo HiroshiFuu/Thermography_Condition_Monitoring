@@ -9,6 +9,8 @@ You could run **prerequisite.sh** to install all pre-requisites.
 
 Then you can enjoy by using **python** to run `Thermal_Imaging.py`.
 
+
+##Hardware
 The FLIR Lepton in all its glory.
 
 ![Image of FLIR-Lepton](https://raw.githubusercontent.com/HiroshiFuu/Thermography_Condition_Monitoring/master/Documents/images/FLIR-Lepton.jpg)
