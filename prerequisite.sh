@@ -6,4 +6,5 @@ sudo git clone https://github.com/groupgets/pylepton.git
 cd pylepton
 sudo python setup.py install
 cd ..
+cd ..
 sudo rm -rf tempLepton
