@@ -8,3 +8,9 @@ My application needs `pygame` library for GUI.
 You could run **prerequisite.sh** to install all pre-requisites.
 
 Then you can enjoy by using **python** to run `Thermal_Imaging.py`.
+
+The FLIR Lepton in all its glory.
+![Image of FLIR-Lepton](https://github.com/HiroshiFuu/Thermography_Condition_Monitoring/Documents/images/FLIR-Lepton.jpg)
+
+FLIR breakout to the Raspberry Pi GPIO connection diagram.
+![Image of RPi-FLIR-diagram](https://github.com/HiroshiFuu/Thermography_Condition_Monitoring/Documents/images/RPi-FLIR-diagram.png)
