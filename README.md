@@ -6,3 +6,5 @@ You need to install `pylepton`, a quick and dirty pure python library for captur
 My application needs `pygame` library for GUI.
 
 You could run **prerequisite.sh** to install all pre-requisites.
+
+Then you can enjoy by using python to run `Thermal_Imaging.py`.
