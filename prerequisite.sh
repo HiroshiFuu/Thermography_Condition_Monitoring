@@ -1,6 +1,6 @@
 sudo apt-get install python-opencv python-numpy
 sudo apt-get install python-pygame
-sudo mdkir tempLepton
+sudo mkdir tempLepton
 cd tempLepton
 sudo git clone https://github.com/groupgets/pylepton.git
 cd pylepton
