@@ -207,9 +207,14 @@ class Thermal_Imaging:
 						
 							for i in range(0, 3):
 								if selected_images_flag[i]:
+									# reset conditions if deselect an POI
 									if selected_images_rect[i].collidepoint(pygame.mouse.get_pos()):
 										selected_images_flag[i] = False
 										to_compare[i] = False
+										to_compare_count[i] = 0
+										notified[i] = False
+										selected_images_warning_flag[i] = False
+										selected_images_ref_threhold[i] = OPTIONS[0]
 										return
 										
 							x = pygame.mouse.get_pos()[0]
